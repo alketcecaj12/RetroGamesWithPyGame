@@ -7,3 +7,5 @@
 - Programming Languages: The library is primarily written in Python but also incorporates C, Cython, and Assembly for performance-critical components.
 
 - License: Pygame is distributed under the GNU Lesser General Public License, allowing both open-source and commercial use.
+
+<img src = "arkade.png" width = "600" height = "300">
