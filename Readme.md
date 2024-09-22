@@ -8,4 +8,4 @@
 
 - License: Pygame is distributed under the GNU Lesser General Public License, allowing both open-source and commercial use.
 
-<img src = "arkade.png" width = "600" height = "300">
+<img src = "arkade.png" width = "900" height = "650">
